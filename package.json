@@ -1,0 +1,19 @@
+{
+  "name": "mars",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MarsEcosystem/mars-swap",
+  "author": "etedwardelric <etedward@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@chainlink/contracts": "^0.1.7",
+    "@openzeppelin/contracts": "3.4.1",
+    "@openzeppelin/test-environment": "^0.1.9",
+    "@openzeppelin/test-helpers": "^0.5.11",
+    "dotenv": "^8.2.0",
+    "solc": "0.7.6",
+    "truffle-flattener": "^1.5.0",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "truffle-plugin-verify": "^0.5.7"
+  }
+}
